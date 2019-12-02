@@ -739,12 +739,14 @@ file:///D:/west-boy-view-site/lib/model/project.dart
 file:///D:/west-boy-view-site/lib/model/todo.dart
 file:///D:/west-boy-view-site/lib/model/work_item.dart
 file:///D:/west-boy-view-site/lib/page/contact_list.dart
+file:///D:/west-boy-view-site/lib/page/home.dart
 file:///D:/west-boy-view-site/lib/page/login.dart
 file:///D:/west-boy-view-site/lib/page/project_add.dart
 file:///D:/west-boy-view-site/lib/page/project_list.dart
 file:///D:/west-boy-view-site/lib/page/work_diary.dart
 file:///D:/west-boy-view-site/lib/page/work_item_add.dart
 file:///D:/west-boy-view-site/lib/page/workdiarydatatable.dart
+file:///D:/west-boy-view-site/lib/utils/responsiveLayout.dart
 file:///D:/west-boy-view-site/lib/widgets/app_drawer.dart
 file:///D:/west-boy-view-site/lib/widgets/app_route_observer.dart
 file:///D:/west-boy-view-site/lib/widgets/app_scaffold.dart
